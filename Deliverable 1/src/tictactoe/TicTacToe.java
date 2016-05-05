@@ -1,13 +1,16 @@
 package tictactoe;
 
 /**
- * @version 1.0
+ * @version 2.0
  * @author Dhruv
  */
 import javax.swing.JFrame;
 
 public class TicTacToe 
 {	
+/**
+ * @param args the command line arguments
+ */
 	public static void main(String args[])
         {
 		JFrame tic = new TicTacToeFrame();
